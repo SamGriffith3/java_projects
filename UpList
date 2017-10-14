@@ -1,0 +1,23 @@
+import Java.util.Scanner;
+
+
+public class UpList {
+
+  SalesStaff ArrayLevel<String, Integer>  = new ArrayLevel<String, Integer>;
+  
+  Scanner reader = new Scanner(Scanner.in);
+  System.out.println("Enter an Employee Name : ")
+  int name = reader.nextString();
+  System.out.println("Enter" + name + "'s Employee ID number : ")
+  int id = reader.nextInt();
+  SalesStaff.add(name, id)
+  
+  for i in SalesStaff.size(){
+  
+  System.out.println(Salestaff.size(i)
+  
+  
+  
+  public static void main(String[] args) {
+  
+  
